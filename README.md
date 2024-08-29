@@ -1,0 +1,2 @@
+# Bytecoin
+ownCoin
